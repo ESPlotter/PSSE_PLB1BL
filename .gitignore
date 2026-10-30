@@ -1,0 +1,19 @@
+# Example outputs
+/output/
+
+# PSS/E outputs written next to the case
+*.out
+*.outx
+*.log
+*.snp
+*.acc
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors and system files
+.vscode/
+.idea/
+Thumbs.db
+~*

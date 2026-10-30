@@ -1,0 +1,33 @@
+{
+  "product": "PSSE",
+  "model_main": "LPB1BL",
+  "model_network": "TPB1BL",
+  "psse_versions": [
+    33,
+    34,
+    35,
+    36
+  ],
+  "build_date": "2026-10-28",
+  "source_commit": "3cdd283-dirty",
+  "complete": true,
+  "warnings": [],
+  "files": {
+    ".gitignore": "e6eaca225306aecd8ef3704727be6fb0e0172834ffdc4c1a8ba7391a0d5ca27b",
+    "AGENTS.md": "e02006a00c9c1cf8386ea11039e238079a2f81da1d1a1fcaef7091561ddd384d",
+    "README.md": "4250f6c96c58a19d1fae5f1af2329c7819622d8d8ce6fb45c30ae349e7fbdc2b",
+    "examples/run_lpb_load_example.py": "a26c41410477db0a9c72614db4c2b397f8f5e3b48fd8e495873909f6e336f457",
+    "fortran/LPB1BL.f": "3d68512f323ccf317235c9013b6441f02f17092288e0dbb0eb982bb40720c582",
+    "fortran/LPB1BL_VINDP.f": "1bf5e23cffffb2ac856d28adb712c0de1df06d66813780640458a2ba1987addc",
+    "libraries/v33/LPB1BL_v33.dll": "9cf2070c3bc04642c7c6a4f8693dd6f8c65cb3452e07c5d1ae5843ea393d118c",
+    "libraries/v34/LPB1BL_v34.dll": "7fdc0c9dc3c6cd2d7fd26f90d4f74ffc2202755b1ca6ed37f8ce49a0e33772e4",
+    "libraries/v35/LPB1BL_v35.dll": "9e434c9ea2151e71a59a77f2dff514d508a97b35ae0c46abe1d5d6033485698d",
+    "libraries/v36/LPB1BL_v36.dll": "3db3fd4e32650cb72ad42b305217492b9103685b4d91afb71e5c67f5e247ded7",
+    "report/LPB1BL_validation_report.pdf": "a8cd997f3d049c5043c136a91db85e5f9d940cc8490b3745947c5bf842415d00",
+    "sample_case/Flat.plb": "01363076955ced78ebcd88d74bee492b491cff96987608645ed6bd6910b8d713",
+    "sample_case/LPB1BL.dyr": "ff53c071a7d48a9c88ea90404d41acc1a4aaf436b5f3da3346ecb1f982b28cb4",
+    "sample_case/Vsteps.plb": "05f2785ac3e523038935cf2409be60d2e61a8f76705c8650bdb56bc1e40e49b4",
+    "sample_case/lpb_load_bench.sav": "c20ecd55698982b90df51ee0377f962558824087fb6934bc71a8c2b263961679",
+    "sample_case/sample.lpb": "2c5cd62de36134aea1a278bbadcc4f6677d04ef3aff334c1c21a5f93f15df77b"
+  }
+}
