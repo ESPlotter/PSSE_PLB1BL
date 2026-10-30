@@ -1,6 +1,6 @@
 # Support
 
-For project questions, report issues, or request help, contact [support@esplotter.com](mailto:support@esplotter.com). Use GitHub issues for reproducible bugs and feature requests once the public repository is available.
+For project questions, report issues, or request help, contact [support@esplotter.com](mailto:support@esplotter.com). Open a GitHub issue in this repository for reproducible bugs and feature requests.
 
 When asking for help, include:
 
